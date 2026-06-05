@@ -6,11 +6,48 @@ The project is designed to simplify access to decentralized financial services w
 
 ---
 
-# Overview
+# Vision
 
-NEXORA provides a modern Web3 interface that enables users to interact with blockchain networks through wallet connectivity and decentralized applications.
+NEXORA aims to become a unified decentralized infrastructure layer for the next generation of Web3 finance.
 
-The platform aims to create a seamless gateway between traditional users and decentralized finance ecosystems.
+---
+
+# Why NEXORA?
+
+NEXORA represents the future of decentralized finance by combining:
+
+- Scalable blockchain infrastructure
+- Cross-chain interoperability
+- Community-driven governance
+- Institutional-grade security
+- User-friendly Web3 accessibility
+
+The name NEXORA is inspired by:
+- NEX = Next / Nexus
+- ORA = Oracle / Aura
+
+Together, NEXORA symbolizes the next financial nexus for Web3 ecosystems.
+
+---
+
+# How NEXORA Works
+
+## Wallet Connectivity
+Users connect securely using MetaMask and EVM-compatible wallets.
+
+## Smart Contract Infrastructure
+The protocol uses decentralized smart contracts for:
+- staking
+- governance
+- liquidity management
+- reward distribution
+- cross-chain asset interaction
+
+## Governance Layer
+Community members can participate in protocol decisions through decentralized governance systems.
+
+## Cross-Chain Access
+NEXORA enables seamless asset management across multiple blockchain ecosystems.
 
 ---
 
@@ -37,6 +74,35 @@ The platform aims to create a seamless gateway between traditional users and dec
 
 ---
 
+# Roadmap
+
+## Q1 2026
+- Official website launch
+- Wallet integration
+- Smart contract deployment
+- Community campaign
+- Whitepaper release
+
+## Q2 2026
+- Governance beta
+- Staking platform
+- Multi-chain integration
+- Strategic partnerships
+
+## Q3 2026
+- Cross-chain liquidity system
+- Yield aggregation
+- NFT ecosystem integration
+- Developer API support
+
+## Q4 2026
+- DAO governance launch
+- Validator network
+- Ecosystem grants
+- Global ecosystem expansion
+
+---
+
 # Technology Stack
 
 - HTML5
@@ -45,6 +111,5 @@ The platform aims to create a seamless gateway between traditional users and dec
 - Ethers.js
 - Web3 Wallet Integration
 
-#Contract
-0x84d68FbD5D763B5B4Af031c32287D474B16241Ef
-EXPLORER: https://testnet.iopn.tech/address/0x84d68FbD5D763B5B4Af031c32287D474B16241Ef
+---
+
